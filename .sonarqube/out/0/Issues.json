@@ -1,0 +1,545 @@
+{
+  "$schema": "http://json.schemastore.org/sarif-1.0.0",
+  "version": "1.0.0",
+  "runs": [
+    {
+      "tool": {
+        "name": "Microsoft (R) Visual C# Compiler",
+        "version": "5.9.0.0",
+        "fileVersion": "5.9.0-1.26423.113 (e34a38d2ae1fc26406a317517196e55c68ff83ab)",
+        "semanticVersion": "5.9.0",
+        "language": "en-US"
+      },
+      "results": [
+        {
+          "ruleId": "CA2211",
+          "level": "note",
+          "message": "Non-constant fields should not be visible",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Sendi/Desktop/VVS/VVSGrupa4-Tim1/Storage/Sesija.cs",
+                "region": {
+                  "startLine": 9,
+                  "startColumn": 30,
+                  "endLine": 9,
+                  "endColumn": 34
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CA2211",
+          "level": "note",
+          "message": "Non-constant fields should not be visible",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Sendi/Desktop/VVS/VVSGrupa4-Tim1/Storage/Sesija.cs",
+                "region": {
+                  "startLine": 7,
+                  "startColumn": 27,
+                  "endLine": 7,
+                  "endColumn": 33
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CA2211",
+          "level": "note",
+          "message": "Non-constant fields should not be visible",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Sendi/Desktop/VVS/VVSGrupa4-Tim1/Storage/Sesija.cs",
+                "region": {
+                  "startLine": 10,
+                  "startColumn": 30,
+                  "endLine": 10,
+                  "endColumn": 35
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CA2211",
+          "level": "note",
+          "message": "Non-constant fields should not be visible",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Sendi/Desktop/VVS/VVSGrupa4-Tim1/Storage/Sesija.cs",
+                "region": {
+                  "startLine": 8,
+                  "startColumn": 30,
+                  "endLine": 8,
+                  "endColumn": 38
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S4790",
+          "level": "warning",
+          "message": "Use a stronger hashing algorithm.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Sendi/Desktop/VVS/VVSGrupa4-Tim1/Storage/Lozinke.cs",
+                "region": {
+                  "startLine": 11,
+                  "startColumn": 23,
+                  "endLine": 11,
+                  "endColumn": 35
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2245",
+          "level": "warning",
+          "message": "Use a cryptographically strong random number generator.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Sendi/Desktop/VVS/VVSGrupa4-Tim1/Storage/Sesija.cs",
+                "region": {
+                  "startLine": 14,
+                  "startColumn": 24,
+                  "endLine": 14,
+                  "endColumn": 36
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2245",
+          "level": "warning",
+          "message": "Use a cryptographically strong random number generator.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Sendi/Desktop/VVS/VVSGrupa4-Tim1/Services/Customer/CustomerService.cs",
+                "region": {
+                  "startLine": 32,
+                  "startColumn": 24,
+                  "endLine": 32,
+                  "endColumn": 36
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2245",
+          "level": "warning",
+          "message": "Use a cryptographically strong random number generator.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Sendi/Desktop/VVS/VVSGrupa4-Tim1/Services/Repayment/RepaymentService.cs",
+                "region": {
+                  "startLine": 97,
+                  "startColumn": 24,
+                  "endLine": 97,
+                  "endColumn": 36
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CA1866",
+          "level": "note",
+          "message": "Use 'string.IndexOf(char)' instead of 'string.IndexOf(string)' when you have a string with a single char",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Sendi/Desktop/VVS/VVSGrupa4-Tim1/Services/Customer/CustomerService.cs",
+                "region": {
+                  "startLine": 27,
+                  "startColumn": 30,
+                  "endLine": 27,
+                  "endColumn": 35
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2245",
+          "level": "warning",
+          "message": "Use a cryptographically strong random number generator.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Sendi/Desktop/VVS/VVSGrupa4-Tim1/Services/Loan/LoanService.cs",
+                "region": {
+                  "startLine": 119,
+                  "startColumn": 28,
+                  "endLine": 119,
+                  "endColumn": 40
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1244",
+          "level": "warning",
+          "message": "Do not check floating point equality with exact values, use a range instead.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Sendi/Desktop/VVS/VVSGrupa4-Tim1/Services/Loan/LoanService.cs",
+                "region": {
+                  "startLine": 114,
+                  "startColumn": 31,
+                  "endLine": 114,
+                  "endColumn": 33
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CA1850",
+          "level": "note",
+          "message": "Prefer static 'System.Security.Cryptography.MD5.HashData' method over 'ComputeHash'",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Sendi/Desktop/VVS/VVSGrupa4-Tim1/Storage/Lozinke.cs",
+                "region": {
+                  "startLine": 13,
+                  "startColumn": 24,
+                  "endLine": 13,
+                  "endColumn": 46
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/Sendi/Desktop/VVS/VVSGrupa4-Tim1/Storage/Lozinke.cs",
+                "region": {
+                  "startLine": 11,
+                  "startColumn": 17,
+                  "endLine": 11,
+                  "endColumn": 35
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "ComputeTypePropertyKey": "ComputeHash",
+              "DeleteHashCreationPropertyKey": "DeleteHashCreationPropertyKey",
+              "HashCreationIndexPropertyKey": "0",
+              "TargetHashTypeDiagnosticPropertyKey": "MD5"
+            }
+          }
+        },
+        {
+          "ruleId": "S2077",
+          "level": "warning",
+          "message": "Use a parameterized query instead of string formatting.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Sendi/Desktop/VVS/VVSGrupa4-Tim1/Storage/Baza.cs",
+                "region": {
+                  "startLine": 134,
+                  "startColumn": 37,
+                  "endLine": 134,
+                  "endColumn": 64
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/Sendi/Desktop/VVS/VVSGrupa4-Tim1/Storage/Baza.cs",
+                "region": {
+                  "startLine": 128,
+                  "startColumn": 20,
+                  "endLine": 128,
+                  "endColumn": 23
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "0": "SQL Query is dynamically formatted and assigned to sql."
+            }
+          }
+        },
+        {
+          "ruleId": "S2077",
+          "level": "warning",
+          "message": "Use a parameterized query instead of string formatting.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Sendi/Desktop/VVS/VVSGrupa4-Tim1/Storage/Baza.cs",
+                "region": {
+                  "startLine": 159,
+                  "startColumn": 37,
+                  "endLine": 159,
+                  "endColumn": 64
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/Sendi/Desktop/VVS/VVSGrupa4-Tim1/Storage/Baza.cs",
+                "region": {
+                  "startLine": 153,
+                  "startColumn": 20,
+                  "endLine": 153,
+                  "endColumn": 23
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "0": "SQL Query is dynamically formatted and assigned to sql."
+            }
+          }
+        },
+        {
+          "ruleId": "S1751",
+          "level": "warning",
+          "message": "Refactor the containing loop to do more than one iteration.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Sendi/Desktop/VVS/VVSGrupa4-Tim1/Services/Loan/LoanService.cs",
+                "region": {
+                  "startLine": 141,
+                  "startColumn": 17,
+                  "endLine": 141,
+                  "endColumn": 27
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CA1822",
+          "level": "note",
+          "message": "Member 'NovaVeza' does not access instance data and can be marked as static",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Sendi/Desktop/VVS/VVSGrupa4-Tim1/Storage/Baza.cs",
+                "region": {
+                  "startLine": 12,
+                  "startColumn": 34,
+                  "endLine": 12,
+                  "endColumn": 42
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        }
+      ],
+      "rules": {
+        "CA1822": {
+          "id": "CA1822",
+          "shortDescription": "Mark members as static",
+          "fullDescription": "Members that do not access instance data or call instance methods can be marked as static. After you mark the methods as static, the compiler will emit nonvirtual call sites to these members. This can give you a measurable performance gain for performance-sensitive code.",
+          "defaultLevel": "note",
+          "helpUri": "https://learn.microsoft.com/dotnet/fundamentals/code-analysis/quality-rules/ca1822",
+          "properties": {
+            "category": "Performance",
+            "isEnabledByDefault": true,
+            "tags": [
+              "PortedFromFxCop",
+              "Telemetry",
+              "EnabledRuleInAggressiveMode"
+            ]
+          }
+        },
+        "CA1850": {
+          "id": "CA1850",
+          "shortDescription": "Prefer static 'HashData' method over 'ComputeHash'",
+          "fullDescription": "It is more efficient to use the static 'HashData' method over creating and managing a HashAlgorithm instance to call 'ComputeHash'.",
+          "defaultLevel": "note",
+          "helpUri": "https://learn.microsoft.com/dotnet/fundamentals/code-analysis/quality-rules/ca1850",
+          "properties": {
+            "category": "Performance",
+            "isEnabledByDefault": true,
+            "tags": [
+              "Telemetry",
+              "EnabledRuleInAggressiveMode"
+            ]
+          }
+        },
+        "CA1866": {
+          "id": "CA1866",
+          "shortDescription": "Use char overload",
+          "fullDescription": "The char overload is a better performing overload than a string with a single char.",
+          "defaultLevel": "note",
+          "helpUri": "https://learn.microsoft.com/dotnet/fundamentals/code-analysis/quality-rules/ca1866",
+          "properties": {
+            "category": "Performance",
+            "isEnabledByDefault": true,
+            "tags": [
+              "Telemetry",
+              "EnabledRuleInAggressiveMode"
+            ]
+          }
+        },
+        "CA2211": {
+          "id": "CA2211",
+          "shortDescription": "Non-constant fields should not be visible",
+          "fullDescription": "Static fields that are neither constants nor read-only are not thread-safe. Access to such a field must be carefully controlled and requires advanced programming techniques to synchronize access to the class object.",
+          "defaultLevel": "note",
+          "helpUri": "https://learn.microsoft.com/dotnet/fundamentals/code-analysis/quality-rules/ca2211",
+          "properties": {
+            "category": "Usage",
+            "isEnabledByDefault": true,
+            "tags": [
+              "PortedFromFxCop",
+              "Telemetry",
+              "EnabledRuleInAggressiveMode"
+            ]
+          }
+        },
+        "S1244": {
+          "id": "S1244",
+          "shortDescription": "Floating point numbers should not be tested for equality",
+          "fullDescription": "Floating point numbers in C# (and in most other programming languages) are not precise. They are a binary approximation of the actual value. This means that even if two floating point numbers appear to be equal, they might not be due to the tiny differences in their binary representation.",
+          "defaultLevel": "warning",
+          "properties": {
+            "category": "Major Bug",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "TestSourceScope",
+              "SonarWay"
+            ]
+          }
+        },
+        "S1751": {
+          "id": "S1751",
+          "shortDescription": "Loops with at most one iteration should be refactored",
+          "fullDescription": "A loop statement with at most one iteration is equivalent to an if statement; the following block is executed only once.",
+          "defaultLevel": "warning",
+          "properties": {
+            "category": "Major Bug",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "TestSourceScope",
+              "SonarWay"
+            ]
+          }
+        },
+        "S2077": {
+          "id": "S2077",
+          "shortDescription": "SQL queries should not be dynamically formatted",
+          "fullDescription": "Dynamically building SQL query strings can result in broken SQL syntax and open SQL injection attacks.",
+          "defaultLevel": "warning",
+          "properties": {
+            "category": "Major Vulnerability",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "SonarWay"
+            ]
+          }
+        },
+        "S2245": {
+          "id": "S2245",
+          "shortDescription": "Pseudorandom number generators (PRNGs) should not be used in security contexts",
+          "fullDescription": "Pseudorandom number generators (PRNGs) produce sequences that only approximate true randomness and are not suitable for security-sensitive contexts.",
+          "defaultLevel": "warning",
+          "properties": {
+            "category": "Major Vulnerability",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "SonarWay"
+            ]
+          }
+        },
+        "S4790": {
+          "id": "S4790",
+          "shortDescription": "Weak hashing algorithms should not be used",
+          "fullDescription": "Using a weak hashing algorithm to protect sensitive data can compromise the security guarantees the hash is meant to provide.",
+          "defaultLevel": "warning",
+          "properties": {
+            "category": "Critical Vulnerability",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "SonarWay"
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

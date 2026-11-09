@@ -1,0 +1,92 @@
+{
+  "scannerProperties": [
+    {
+      "key": "sonar.scanner.app",
+      "value": "ScannerMSBuild"
+    },
+    {
+      "key": "sonar.scanner.appVersion",
+      "value": "12.1"
+    },
+    {
+      "key": "sonar.scanner.bootstrapStartTime",
+      "value": "1794227764000"
+    },
+    {
+      "key": "sonar.projectKey",
+      "value": "LV1"
+    },
+    {
+      "key": "sonar.working.directory",
+      "value": "C:\\Users\\Sendi\\Desktop\\VVS\\VVSGrupa4-Tim1\\.sonarqube\\out\\.sonar"
+    },
+    {
+      "key": "sonar.projectBaseDir",
+      "value": "C:\\Users\\Sendi\\Desktop\\VVS\\VVSGrupa4-Tim1"
+    },
+    {
+      "key": "sonar.pullrequest.cache.basepath",
+      "value": "C:\\Users\\Sendi\\Desktop\\VVS\\VVSGrupa4-Tim1"
+    },
+    {
+      "key": "sonar.sources",
+      "value": ""
+    },
+    {
+      "key": "sonar.tests",
+      "value": ""
+    },
+    {
+      "key": "sonar.modules",
+      "value": "922A1A9D-C3DE-4601-B277-AB588989762D"
+    },
+    {
+      "key": "922A1A9D-C3DE-4601-B277-AB588989762D.sonar.projectKey",
+      "value": "LV1:922A1A9D-C3DE-4601-B277-AB588989762D"
+    },
+    {
+      "key": "922A1A9D-C3DE-4601-B277-AB588989762D.sonar.projectName",
+      "value": "LoanManagement"
+    },
+    {
+      "key": "922A1A9D-C3DE-4601-B277-AB588989762D.sonar.projectBaseDir",
+      "value": "C:\\Users\\Sendi\\Desktop\\VVS\\VVSGrupa4-Tim1"
+    },
+    {
+      "key": "922A1A9D-C3DE-4601-B277-AB588989762D.sonar.working.directory",
+      "value": "C:\\Users\\Sendi\\Desktop\\VVS\\VVSGrupa4-Tim1\\.sonarqube\\out\\.sonar\\mod0"
+    },
+    {
+      "key": "922A1A9D-C3DE-4601-B277-AB588989762D.sonar.sourceEncoding",
+      "value": "utf-8"
+    },
+    {
+      "key": "922A1A9D-C3DE-4601-B277-AB588989762D.sonar.tests",
+      "value": ""
+    },
+    {
+      "key": "922A1A9D-C3DE-4601-B277-AB588989762D.sonar.sources",
+      "value": "C:\\Users\\Sendi\\Desktop\\VVS\\VVSGrupa4-Tim1\\Data\\DbClass.cs,C:\\Users\\Sendi\\Desktop\\VVS\\VVSGrupa4-Tim1\\Models\\Customer.cs,C:\\Users\\Sendi\\Desktop\\VVS\\VVSGrupa4-Tim1\\Models\\Loan.cs,C:\\Users\\Sendi\\Desktop\\VVS\\VVSGrupa4-Tim1\\Models\\LoanCalculationResult.cs,C:\\Users\\Sendi\\Desktop\\VVS\\VVSGrupa4-Tim1\\Models\\Payment.cs,C:\\Users\\Sendi\\Desktop\\VVS\\VVSGrupa4-Tim1\\Program.cs,C:\\Users\\Sendi\\Desktop\\VVS\\VVSGrupa4-Tim1\\Services\\Customer\\CustomerService.cs,C:\\Users\\Sendi\\Desktop\\VVS\\VVSGrupa4-Tim1\\Services\\Customer\\ICustomerService.cs,C:\\Users\\Sendi\\Desktop\\VVS\\VVSGrupa4-Tim1\\Services\\Loan\\ILoanService.cs,C:\\Users\\Sendi\\Desktop\\VVS\\VVSGrupa4-Tim1\\Services\\Loan\\LoanService.cs,C:\\Users\\Sendi\\Desktop\\VVS\\VVSGrupa4-Tim1\\Services\\Repayment\\IRepaymentService.cs,C:\\Users\\Sendi\\Desktop\\VVS\\VVSGrupa4-Tim1\\Services\\Repayment\\RepaymentService.cs,C:\\Users\\Sendi\\Desktop\\VVS\\VVSGrupa4-Tim1\\Storage\\Baza.cs,C:\\Users\\Sendi\\Desktop\\VVS\\VVSGrupa4-Tim1\\Storage\\Lozinke.cs,C:\\Users\\Sendi\\Desktop\\VVS\\VVSGrupa4-Tim1\\Storage\\MailStub.cs,C:\\Users\\Sendi\\Desktop\\VVS\\VVSGrupa4-Tim1\\Storage\\Sesija.cs,C:\\Users\\Sendi\\Desktop\\VVS\\VVSGrupa4-Tim1\\.gitattributes,C:\\Users\\Sendi\\Desktop\\VVS\\VVSGrupa4-Tim1\\.gitignore,C:\\Users\\Sendi\\Desktop\\VVS\\VVSGrupa4-Tim1\\README.md,C:\\Users\\Sendi\\Desktop\\VVS\\VVSGrupa4-Tim1\\obj\\LoanManagement.csproj.nuget.dgspec.json,C:\\Users\\Sendi\\Desktop\\VVS\\VVSGrupa4-Tim1\\obj\\project.assets.json,C:\\Users\\Sendi\\Desktop\\VVS\\VVSGrupa4-Tim1\\bin\\Debug\\net10.0\\LoanManagement.deps.json,C:\\Users\\Sendi\\Desktop\\VVS\\VVSGrupa4-Tim1\\bin\\Debug\\net10.0\\LoanManagement.runtimeconfig.json,C:\\Users\\Sendi\\Desktop\\VVS\\VVSGrupa4-Tim1\\obj\\Debug\\net10.0\\LoanManagement.sourcelink.json"
+    },
+    {
+      "key": "922A1A9D-C3DE-4601-B277-AB588989762D.sonar.cs.analyzer.projectOutPaths",
+      "value": "C:\\Users\\Sendi\\Desktop\\VVS\\VVSGrupa4-Tim1\\.sonarqube\\out\\0"
+    },
+    {
+      "key": "922A1A9D-C3DE-4601-B277-AB588989762D.sonar.cs.roslyn.reportFilePaths",
+      "value": "C:\\Users\\Sendi\\Desktop\\VVS\\VVSGrupa4-Tim1\\.sonarqube\\out\\0\\Issues.json"
+    },
+    {
+      "key": "922A1A9D-C3DE-4601-B277-AB588989762D.sonar.cs.scanner.telemetry",
+      "value": "C:\\Users\\Sendi\\Desktop\\VVS\\VVSGrupa4-Tim1\\.sonarqube\\out\\0\\Telemetry.json"
+    },
+    {
+      "key": "sonar.token",
+      "value": "***"
+    },
+    {
+      "key": "sonar.host.url",
+      "value": "http://localhost:9000"
+    }
+  ]
+}

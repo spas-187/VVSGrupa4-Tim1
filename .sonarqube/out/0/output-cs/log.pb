@@ -1,0 +1,1 @@
+Roslyn version: 5.9.0.0Language version: CSharp14!Concurrent execution: enabledÅ}File 'C:\Users\Sendi\Desktop\VVS\VVSGrupa4-Tim1\obj\Debug\net10.0\LoanManagement.AssemblyInfo.cs' was recognized as generatedìéFile 'C:\Users\Sendi\Desktop\VVS\VVSGrupa4-Tim1\obj\Debug\net10.0\.NETCoreApp,Version=v10.0.AssemblyAttributes.cs' was recognized as generated

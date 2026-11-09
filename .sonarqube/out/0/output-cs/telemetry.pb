@@ -1,0 +1,1 @@
+LR?C:\Users\Sendi\Desktop\VVS\VVSGrupa4-Tim1\LoanManagement.csprojòCSharp14
