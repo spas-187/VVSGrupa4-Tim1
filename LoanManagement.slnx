@@ -1,3 +1,4 @@
 <Solution>
   <Project Path="LoanManagement.csproj" />
+  <Project Path="Tests/VVSGrupa4Tim1.Tests/VVSGrupa4Tim1.Tests.csproj" Id="01a5e2a8-395b-4cf3-b349-3b970bcdc11c" />
 </Solution>
