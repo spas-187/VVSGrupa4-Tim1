@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using LoanManagement.Data;
 using LoanManagement.Models;
@@ -33,7 +33,7 @@ namespace LoanManagement
                 return;
             }
 
-            CustomerService cs = new CustomerService(db);
+            ICustomerService cs = new CustomerService(db);
             string passwordPrompt = "Enter password: ";
             bool kraj = false;
             while (kraj == false)
@@ -165,9 +165,9 @@ namespace LoanManagement
         static void PerformanceScenario()
         {
             DbClass pdb = new DbClass();
-            CustomerService cs = new CustomerService(pdb);
-            LoanService ls = new LoanService(pdb);
-            RepaymentService rs = new RepaymentService(pdb);
+            ICustomerService cs = new CustomerService(pdb);
+            ILoanService ls = new LoanService(pdb);
+            IRepaymentService rs = new RepaymentService(pdb);
 
             int cid = cs.AddCustomer("Perf Customer", "perf@example.com");
             DateTime start = DateTime.Now.AddYears(-20);
@@ -195,9 +195,9 @@ namespace LoanManagement
         static void Demo()
         {
             DbClass ddb = new DbClass();
-            CustomerService cs = new CustomerService(ddb);
-            LoanService ls = new LoanService(ddb);
-            RepaymentService rs = new RepaymentService(ddb);
+            ICustomerService cs = new CustomerService(ddb);
+            ILoanService ls = new LoanService(ddb);
+            IRepaymentService rs = new RepaymentService(ddb);
 
             int cid = cs.AddCustomer("Demo Customer", "demo@example.com");
             Console.WriteLine(cs.GetCustomerDetails(cid));

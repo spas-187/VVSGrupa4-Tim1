@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Customers>
+  <Customer><Name>Amra Hadzic</Name><Email>amra@example.com</Email></Customer>
+  <Customer><Name>Emir Kovac</Name><Email>emir@example.com</Email></Customer>
+  <Customer><Name>Lejla Begic</Name><Email>lejla@example.com</Email></Customer>
+</Customers>
